@@ -1,2 +1,1 @@
-
-hello,world
+let a = 6
